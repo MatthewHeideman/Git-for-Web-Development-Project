@@ -1,0 +1,51 @@
+https://codepen.io/mattymoo444/pen/LYVGbKy?editors=1100
+
+1. HTML written so that if another dev looks at it they will know the purpose of each element.
+2. To add content to a webpage.
+3. An attribute is something that gives further definition to the content, it goes inside of the tag in the html.
+4. It's the biggest of the header tags.  You "can" use it as many times as you want, but it should only be used once to call attention to that item.
+5. <a> and <img>
+6. A viewport meta tag and the link to our stylesheet.
+7. A specific selector that can only be placed on one item.
+8. Any element.
+9. Once.
+10. A selector that can be placed on multiple elements.
+11. Any item
+12. As many times as you want.
+13. href="address of whatever page you want to open or source file"
+14. Gives a definition of something that may not be able to be viewed.
+15. #idName
+16. Section is more semantic.
+17. To style webpages.
+18. You would write the element name and then add curly brackets.  h2 {}
+19. Id's are specific to one element while classes can be used on multiple elements.  You might want to use an Id for a a hero image and a class for other smaller images you have on the page.
+20. .className
+21. .human{}
+22. It is used to select elements with a specific parent.  You would use it when you have other elements of the same name in the document that you don't want to affect.
+23. .sidebar a{}
+24. A pseudo-selector is used to combine styles to an element, usually afeter some kind of interaction.
+25. line-height:
+26. letter-spacing:
+27. text-transform:
+28. border: 1px dotted black;
+29. *{}
+30. //**//
+31. git status or ls 
+32. ls
+33. rmdir You should be careful because you could end up removing something important.
+34. It makes it easier to go back to an older version or reclaim lost files.
+35. Every 2 hours
+36. git push -u origin "branchName"
+37. fork the repo
+    git clone url
+    git checkout -b "branchName"
+    git add .
+    git commit -m "message here"
+    git push -u origin "branchName"
+
+Stretch:
+1. An inline element is going to appear inline and a block element will appear wherever it fits on the page.
+2. It is no longer interacting with any other element on the page, it's just kind of hovering above.
+3. You could give it a max-width property.
+5. Margin, Border, Padding, content.  I don't know what they're, the box model is pretty cool as is.
+    
